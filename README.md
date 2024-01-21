@@ -14,7 +14,7 @@ This project is a Python script that converts videos from AVI to MKV format usin
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/caiolul/poc-moviepy-converter
+git clone git@github.com:caiolul/poc-moviepy-converter.git
 ```
    
    
