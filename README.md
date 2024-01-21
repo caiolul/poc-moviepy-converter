@@ -36,6 +36,7 @@ This will prompt you to enter the path to the folder containing AVI videos.
 
 The converted videos will be saved in the same directory with the MKV extension.
 
+If you wish to change the conversion settings, update the `converter.py` file with your configurations
 
 # Project Structure
 
