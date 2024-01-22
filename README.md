@@ -31,7 +31,21 @@ git clone git@github.com:caiolul/poc-moviepy-converter.git
 ```bash
 python main.py
 ```
+2. Specify the path to the folder containing the AVI videos.
 
+```bash
+Enter the path to the folder containing the AVI videos: 
+```
+
+3. Select the conversion settings.
+
+```bash
+Select the conversion settings:
+1 - Convert with higth quality but slower
+2 - Convert with medium quality but faster
+3 - Improve the quality of the video (WIP)
+
+```
 This will prompt you to enter the path to the folder containing AVI videos.
 
 The converted videos will be saved in the same directory with the MKV extension.
